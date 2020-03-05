@@ -4,7 +4,7 @@ Osciloscopio.
 
 ## Integrantes del equipo
 
-Ignacio Sánchez Aparicio y Alejandro Mayor Escalda.
+Ignacio Sánchez Aparicio y Alejandro Mayor Escalada.
 
 ## Descripción del trabajo
 
@@ -21,4 +21,4 @@ PC, placa Arduino1, resistencias, electroíticos, condensadores.
 
 ## Softaware
 
-Programa Arduino
+Programa Arduino y visual .
