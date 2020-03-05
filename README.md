@@ -1,11 +1,24 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Osciloscopio.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Ignacio Sánchez Aparicio y Alejandro Mayor Escalda.
+
+## Descripción del trabajo
+
+Nuestro objetivo es desarrollar un osciloscopio en arduino, el osciloscopio es un visualizador de ondas eléctricas mediante gráficas y nostros lo que pretendemos realizar visualizará esas gráficas en el ordenador.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Programar en arduino un código que permita interpretar las ondas eléctricas que le llegan al arduino
+Que nuestro ordenador muestre la gráfica de ondas en el monitor
+
+## Hardware
+
+PC, placa Arduino1, resistencias, electroíticos, condensadores.
+
+## Softaware
+
+Programa Arduino
